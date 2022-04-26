@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScanObject</string>
+    <string name="capture_choose">Capture or Choose From Gallery To Scan</string>
+</resources>
